@@ -106,6 +106,8 @@ A: Because it uses the Vocos architecture which is isotropic and single pass, it
 
 ## Final Notes
 
+Currently writing an Interspeech paper for LavaSR, receiving feedback from community would be great.
+
 The model and code are licensed under the Apache-2.0 license. See LICENSE for details.
 
 Stars/Likes would be appreciated, thank you.
